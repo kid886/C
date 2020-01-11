@@ -1,0 +1,7 @@
+﻿  dataType.cpp
+D:\project\C++\C++基础入门\2数据类型\dataType.cpp(10,13): warning C4309: “初始化”: 截断常量值
+D:\project\C++\C++基础入门\2数据类型\dataType.cpp(22,27): warning C4305: “初始化”: 从“__int64”到“int”截断
+D:\project\C++\C++基础入门\2数据类型\dataType.cpp(22,11): warning C4309: “初始化”: 截断常量值
+D:\project\C++\C++基础入门\2数据类型\dataType.cpp(32,32): warning C4305: “初始化”: 从“__int64”到“long”截断
+D:\project\C++\C++基础入门\2数据类型\dataType.cpp(32,16): warning C4309: “初始化”: 截断常量值
+  2数据类型.vcxproj -> D:\project\C++\C++基础入门\Debug\2数据类型.exe
